@@ -1,6 +1,6 @@
 # VIDEO 00 (TEST) — Il conto veloce dell'auto
 **Durata target:** ~55 secondi (~125 parole) · Formato 16:9 · Serve solo a testare la pipeline.
-Tutti i numeri sono verificati (vedi ../sources.md). Unica ipotesi dichiarata nel video: 12.000 km/anno e 6 l/100 km.
+Tutti i numeri sono verificati (vedi sources.md). Unica ipotesi dichiarata nel video: 12.000 km/anno e 6 l/100 km.
 
 > Registra con 10 secondi di silenzio iniziali. Se sbagli: 2 secondi di pausa e ripeti la frase dall'inizio.
 > Le parti in [parentesi quadre] non si leggono.
