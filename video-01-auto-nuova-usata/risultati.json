@@ -1,0 +1,25 @@
+{
+  "nuova": {
+    "Svalutazione": 11857,
+    "Carburante": 7596,
+    "Assicurazione RC": 2110,
+    "Bollo": 900,
+    "Manutenzione": 2000,
+    "Soldi 'fermi' nell'auto": 2635,
+    "TOTALE": 27098
+  },
+  "usata": {
+    "Svalutazione": 4901,
+    "Carburante": 7596,
+    "Assicurazione RC": 2110,
+    "Bollo": 900,
+    "Manutenzione": 3750,
+    "Soldi 'fermi' nell'auto": 1634,
+    "TOTALE": 20891
+  },
+  "prezzo_usata": 16336,
+  "differenza_totale": 6207,
+  "differenza_al_mese": 103,
+  "costo_mese_nuova": 452,
+  "costo_mese_usata": 348
+}
