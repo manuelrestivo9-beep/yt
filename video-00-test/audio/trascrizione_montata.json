@@ -1,0 +1,762 @@
+{
+ "sorgente": "audio/voce_montata.wav",
+ "durata": 51.72,
+ "parole": [
+  {
+   "p": "un",
+   "inizio": 0.15,
+   "fine": 0.18,
+   "conf": 0.097
+  },
+  {
+   "p": "'auto",
+   "inizio": 0.18,
+   "fine": 0.38,
+   "conf": 0.998
+  },
+  {
+   "p": "nuova",
+   "inizio": 0.38,
+   "fine": 0.88,
+   "conf": 1.0
+  },
+  {
+   "p": "in",
+   "inizio": 0.88,
+   "fine": 1.12,
+   "conf": 0.999
+  },
+  {
+   "p": "italia",
+   "inizio": 1.12,
+   "fine": 1.52,
+   "conf": 0.894
+  },
+  {
+   "p": "costa",
+   "inizio": 1.52,
+   "fine": 2.28,
+   "conf": 1.0
+  },
+  {
+   "p": "in",
+   "inizio": 2.28,
+   "fine": 2.34,
+   "conf": 1.0
+  },
+  {
+   "p": "media",
+   "inizio": 2.34,
+   "fine": 2.7,
+   "conf": 1.0
+  },
+  {
+   "p": "oltre",
+   "inizio": 2.7,
+   "fine": 3.38,
+   "conf": 1.0
+  },
+  {
+   "p": "36",
+   "inizio": 3.38,
+   "fine": 3.68,
+   "conf": 1.0
+  },
+  {
+   "p": ".000",
+   "inizio": 3.68,
+   "fine": 4.1,
+   "conf": 0.898
+  },
+  {
+   "p": "euro",
+   "inizio": 4.1,
+   "fine": 4.28,
+   "conf": 1.0
+  },
+  {
+   "p": "di",
+   "inizio": 4.28,
+   "fine": 4.46,
+   "conf": 1.0
+  },
+  {
+   "p": "listino",
+   "inizio": 4.46,
+   "fine": 4.96,
+   "conf": 1.0
+  },
+  {
+   "p": "ma",
+   "inizio": 4.96,
+   "fine": 5.08,
+   "conf": 0.965
+  },
+  {
+   "p": "il",
+   "inizio": 5.4,
+   "fine": 5.51,
+   "conf": 1.0
+  },
+  {
+   "p": "prezzo",
+   "inizio": 5.51,
+   "fine": 5.8,
+   "conf": 1.0
+  },
+  {
+   "p": "d",
+   "inizio": 5.8,
+   "fine": 5.88,
+   "conf": 0.992
+  },
+  {
+   "p": "'acquisto",
+   "inizio": 5.88,
+   "fine": 6.26,
+   "conf": 1.0
+  },
+  {
+   "p": "è",
+   "inizio": 6.26,
+   "fine": 6.54,
+   "conf": 0.999
+  },
+  {
+   "p": "solo",
+   "inizio": 6.54,
+   "fine": 6.8,
+   "conf": 1.0
+  },
+  {
+   "p": "l",
+   "inizio": 6.8,
+   "fine": 6.94,
+   "conf": 1.0
+  },
+  {
+   "p": "'inizio",
+   "inizio": 6.94,
+   "fine": 7.4,
+   "conf": 1.0
+  },
+  {
+   "p": "facciamo",
+   "inizio": 7.84,
+   "fine": 8.05,
+   "conf": 0.963
+  },
+  {
+   "p": "un",
+   "inizio": 8.05,
+   "fine": 8.19,
+   "conf": 1.0
+  },
+  {
+   "p": "conto",
+   "inizio": 8.19,
+   "fine": 8.49,
+   "conf": 1.0
+  },
+  {
+   "p": "veloce",
+   "inizio": 8.49,
+   "fine": 8.95,
+   "conf": 1.0
+  },
+  {
+   "p": "12",
+   "inizio": 8.95,
+   "fine": 9.37,
+   "conf": 1.0
+  },
+  {
+   "p": ".000",
+   "inizio": 9.37,
+   "fine": 9.81,
+   "conf": 0.996
+  },
+  {
+   "p": "chilometri",
+   "inizio": 9.81,
+   "fine": 10.31,
+   "conf": 0.932
+  },
+  {
+   "p": "all",
+   "inizio": 10.31,
+   "fine": 10.45,
+   "conf": 1.0
+  },
+  {
+   "p": "'anno",
+   "inizio": 10.45,
+   "fine": 10.79,
+   "conf": 1.0
+  },
+  {
+   "p": "6",
+   "inizio": 10.79,
+   "fine": 11.35,
+   "conf": 0.986
+  },
+  {
+   "p": "litri",
+   "inizio": 11.35,
+   "fine": 11.79,
+   "conf": 1.0
+  },
+  {
+   "p": "ogni",
+   "inizio": 11.79,
+   "fine": 11.91,
+   "conf": 1.0
+  },
+  {
+   "p": "100",
+   "inizio": 11.91,
+   "fine": 12.13,
+   "conf": 0.999
+  },
+  {
+   "p": "chilometri",
+   "inizio": 12.13,
+   "fine": 12.93,
+   "conf": 0.979
+  },
+  {
+   "p": "benzina",
+   "inizio": 12.93,
+   "fine": 13.49,
+   "conf": 0.958
+  },
+  {
+   "p": "2",
+   "inizio": 13.49,
+   "fine": 13.65,
+   "conf": 0.978
+  },
+  {
+   "p": ",11",
+   "inizio": 13.65,
+   "fine": 14.15,
+   "conf": 0.828
+  },
+  {
+   "p": "euro",
+   "inizio": 14.15,
+   "fine": 14.47,
+   "conf": 0.486
+  },
+  {
+   "p": "al",
+   "inizio": 14.47,
+   "fine": 14.51,
+   "conf": 0.99
+  },
+  {
+   "p": "litro,",
+   "inizio": 14.51,
+   "fine": 14.89,
+   "conf": 1.0
+  },
+  {
+   "p": "dato",
+   "inizio": 14.94,
+   "fine": 15.09,
+   "conf": 1.0
+  },
+  {
+   "p": "MIMIT",
+   "inizio": 15.61,
+   "fine": 16.13,
+   "conf": 0.782
+  },
+  {
+   "p": "del",
+   "inizio": 16.13,
+   "fine": 16.37,
+   "conf": 1.0
+  },
+  {
+   "p": "30",
+   "inizio": 16.37,
+   "fine": 16.65,
+   "conf": 1.0
+  },
+  {
+   "p": "settembre.",
+   "inizio": 16.65,
+   "fine": 17.37,
+   "conf": 1.0
+  },
+  {
+   "p": "Sono",
+   "inizio": 17.98,
+   "fine": 18.05,
+   "conf": 0.999
+  },
+  {
+   "p": "circa",
+   "inizio": 18.05,
+   "fine": 18.47,
+   "conf": 1.0
+  },
+  {
+   "p": "1",
+   "inizio": 18.47,
+   "fine": 18.75,
+   "conf": 0.654
+  },
+  {
+   "p": ".500",
+   "inizio": 18.75,
+   "fine": 19.33,
+   "conf": 0.997
+  },
+  {
+   "p": "euro",
+   "inizio": 19.33,
+   "fine": 19.73,
+   "conf": 0.999
+  },
+  {
+   "p": "l",
+   "inizio": 19.73,
+   "fine": 19.89,
+   "conf": 0.994
+  },
+  {
+   "p": "'anno",
+   "inizio": 19.89,
+   "fine": 20.07,
+   "conf": 1.0
+  },
+  {
+   "p": "di",
+   "inizio": 20.07,
+   "fine": 20.25,
+   "conf": 1.0
+  },
+  {
+   "p": "carburante.",
+   "inizio": 20.25,
+   "fine": 20.87,
+   "conf": 0.999
+  },
+  {
+   "p": "Aggiungi",
+   "inizio": 22.02,
+   "fine": 22.34,
+   "conf": 1.0
+  },
+  {
+   "p": "l",
+   "inizio": 22.34,
+   "fine": 22.38,
+   "conf": 0.998
+  },
+  {
+   "p": "'assicurazione,",
+   "inizio": 22.38,
+   "fine": 23.09,
+   "conf": 1.0
+  },
+  {
+   "p": "secondo",
+   "inizio": 23.27,
+   "fine": 23.77,
+   "conf": 1.0
+  },
+  {
+   "p": "l",
+   "inizio": 23.77,
+   "fine": 24.08,
+   "conf": 0.976
+  },
+  {
+   "p": "'IVAS",
+   "inizio": 24.08,
+   "fine": 24.36,
+   "conf": 0.81
+  },
+  {
+   "p": "il",
+   "inizio": 24.36,
+   "fine": 24.7,
+   "conf": 0.988
+  },
+  {
+   "p": "premio",
+   "inizio": 24.7,
+   "fine": 25.08,
+   "conf": 1.0
+  },
+  {
+   "p": "medio",
+   "inizio": 25.08,
+   "fine": 25.34,
+   "conf": 1.0
+  },
+  {
+   "p": "RC",
+   "inizio": 25.34,
+   "fine": 25.59,
+   "conf": 0.981
+  },
+  {
+   "p": "auto",
+   "inizio": 25.59,
+   "fine": 26.12,
+   "conf": 0.669
+  },
+  {
+   "p": "è",
+   "inizio": 26.12,
+   "fine": 26.46,
+   "conf": 0.999
+  },
+  {
+   "p": "di",
+   "inizio": 26.62,
+   "fine": 26.73,
+   "conf": 1.0
+  },
+  {
+   "p": "422",
+   "inizio": 26.73,
+   "fine": 27.68,
+   "conf": 1.0
+  },
+  {
+   "p": "euro,",
+   "inizio": 27.68,
+   "fine": 28.3,
+   "conf": 1.0
+  },
+  {
+   "p": "in",
+   "inizio": 28.46,
+   "fine": 28.53,
+   "conf": 1.0
+  },
+  {
+   "p": "totale",
+   "inizio": 28.96,
+   "fine": 29.54,
+   "conf": 1.0
+  },
+  {
+   "p": "quasi",
+   "inizio": 29.54,
+   "fine": 29.71,
+   "conf": 0.999
+  },
+  {
+   "p": "1",
+   "inizio": 30.08,
+   "fine": 30.34,
+   "conf": 0.699
+  },
+  {
+   "p": ".950",
+   "inizio": 30.34,
+   "fine": 31.08,
+   "conf": 1.0
+  },
+  {
+   "p": "euro",
+   "inizio": 31.08,
+   "fine": 31.58,
+   "conf": 1.0
+  },
+  {
+   "p": "all",
+   "inizio": 31.58,
+   "fine": 31.76,
+   "conf": 1.0
+  },
+  {
+   "p": "'anno,",
+   "inizio": 31.76,
+   "fine": 32.08,
+   "conf": 1.0
+  },
+  {
+   "p": "circa",
+   "inizio": 32.18,
+   "fine": 32.56,
+   "conf": 1.0
+  },
+  {
+   "p": "160",
+   "inizio": 32.56,
+   "fine": 33.14,
+   "conf": 1.0
+  },
+  {
+   "p": "euro",
+   "inizio": 33.14,
+   "fine": 33.62,
+   "conf": 1.0
+  },
+  {
+   "p": "al",
+   "inizio": 33.62,
+   "fine": 33.78,
+   "conf": 1.0
+  },
+  {
+   "p": "mese.",
+   "inizio": 33.78,
+   "fine": 34.1,
+   "conf": 1.0
+  },
+  {
+   "p": "E",
+   "inizio": 34.24,
+   "fine": 34.88,
+   "conf": 0.937
+  },
+  {
+   "p": "questo",
+   "inizio": 34.9,
+   "fine": 35.1,
+   "conf": 0.72
+  },
+  {
+   "p": "senza",
+   "inizio": 35.1,
+   "fine": 35.44,
+   "conf": 1.0
+  },
+  {
+   "p": "contare",
+   "inizio": 35.44,
+   "fine": 36.02,
+   "conf": 1.0
+  },
+  {
+   "p": "bollo,",
+   "inizio": 36.02,
+   "fine": 36.46,
+   "conf": 0.998
+  },
+  {
+   "p": "tagliandi",
+   "inizio": 36.54,
+   "fine": 37.1,
+   "conf": 0.995
+  },
+  {
+   "p": "e",
+   "inizio": 37.1,
+   "fine": 37.34,
+   "conf": 0.998
+  },
+  {
+   "p": "soprattutto",
+   "inizio": 37.34,
+   "fine": 37.64,
+   "conf": 0.997
+  },
+  {
+   "p": "la",
+   "inizio": 37.64,
+   "fine": 38.0,
+   "conf": 1.0
+  },
+  {
+   "p": "svalutazione.",
+   "inizio": 38.0,
+   "fine": 38.66,
+   "conf": 0.999
+  },
+  {
+   "p": "Quindi",
+   "inizio": 39.26,
+   "fine": 39.35,
+   "conf": 0.999
+  },
+  {
+   "p": "prima",
+   "inizio": 39.35,
+   "fine": 39.69,
+   "conf": 0.874
+  },
+  {
+   "p": "di",
+   "inizio": 39.69,
+   "fine": 39.89,
+   "conf": 1.0
+  },
+  {
+   "p": "firmare",
+   "inizio": 39.89,
+   "fine": 40.41,
+   "conf": 0.997
+  },
+  {
+   "p": "non",
+   "inizio": 40.41,
+   "fine": 40.65,
+   "conf": 0.917
+  },
+  {
+   "p": "guardare",
+   "inizio": 40.65,
+   "fine": 41.11,
+   "conf": 0.999
+  },
+  {
+   "p": "solo",
+   "inizio": 41.11,
+   "fine": 41.29,
+   "conf": 0.999
+  },
+  {
+   "p": "la",
+   "inizio": 41.29,
+   "fine": 41.49,
+   "conf": 0.995
+  },
+  {
+   "p": "rata,",
+   "inizio": 41.49,
+   "fine": 41.83,
+   "conf": 0.996
+  },
+  {
+   "p": "fai",
+   "inizio": 41.83,
+   "fine": 42.13,
+   "conf": 0.76
+  },
+  {
+   "p": "conti",
+   "inizio": 42.13,
+   "fine": 42.51,
+   "conf": 0.977
+  },
+  {
+   "p": "su",
+   "inizio": 42.51,
+   "fine": 42.59,
+   "conf": 1.0
+  },
+  {
+   "p": "tutto.",
+   "inizio": 42.59,
+   "fine": 42.91,
+   "conf": 1.0
+  },
+  {
+   "p": "Nel",
+   "inizio": 43.09,
+   "fine": 43.16,
+   "conf": 0.996
+  },
+  {
+   "p": "prossimo",
+   "inizio": 43.59,
+   "fine": 44.01,
+   "conf": 1.0
+  },
+  {
+   "p": "video",
+   "inizio": 44.01,
+   "fine": 44.27,
+   "conf": 1.0
+  },
+  {
+   "p": "lo",
+   "inizio": 44.27,
+   "fine": 44.51,
+   "conf": 0.997
+  },
+  {
+   "p": "facciamo",
+   "inizio": 44.51,
+   "fine": 44.93,
+   "conf": 1.0
+  },
+  {
+   "p": "su",
+   "inizio": 44.93,
+   "fine": 45.07,
+   "conf": 0.999
+  },
+  {
+   "p": "5",
+   "inizio": 45.07,
+   "fine": 45.31,
+   "conf": 0.886
+  },
+  {
+   "p": "anni,",
+   "inizio": 45.31,
+   "fine": 45.71,
+   "conf": 0.999
+  },
+  {
+   "p": "nuova",
+   "inizio": 45.87,
+   "fine": 46.23,
+   "conf": 0.999
+  },
+  {
+   "p": "contrusata.",
+   "inizio": 46.23,
+   "fine": 46.87,
+   "conf": 0.656
+  },
+  {
+   "p": "Questo",
+   "inizio": 47.38,
+   "fine": 47.48,
+   "conf": 0.942
+  },
+  {
+   "p": "video",
+   "inizio": 47.48,
+   "fine": 47.79,
+   "conf": 1.0
+  },
+  {
+   "p": "è",
+   "inizio": 47.79,
+   "fine": 48.01,
+   "conf": 1.0
+  },
+  {
+   "p": "informazione",
+   "inizio": 48.01,
+   "fine": 48.53,
+   "conf": 1.0
+  },
+  {
+   "p": "generale,",
+   "inizio": 48.53,
+   "fine": 49.21,
+   "conf": 1.0
+  },
+  {
+   "p": "non",
+   "inizio": 49.21,
+   "fine": 49.4,
+   "conf": 1.0
+  },
+  {
+   "p": "consulenza",
+   "inizio": 49.4,
+   "fine": 49.95,
+   "conf": 0.999
+  },
+  {
+   "p": "finanziaria.",
+   "inizio": 49.95,
+   "fine": 50.51,
+   "conf": 1.0
+  }
+ ]
+}

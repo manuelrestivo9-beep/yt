@@ -1,0 +1,893 @@
+{
+ "modello": "large-v3",
+ "lingua": "it",
+ "durata": 72.45,
+ "segmenti": [
+  {
+   "inizio": 11.34,
+   "fine": 18.14,
+   "testo": "un'auto nuova in italia costa in media oltre 36.000 euro di listino ma il prezzo d'acquisto",
+   "avg_logprob": -0.049,
+   "no_speech_prob": 0.005,
+   "parole": [
+    {
+     "p": "un",
+     "inizio": 11.34,
+     "fine": 12.06,
+     "conf": 0.097
+    },
+    {
+     "p": "'auto",
+     "inizio": 12.06,
+     "fine": 12.26,
+     "conf": 0.998
+    },
+    {
+     "p": "nuova",
+     "inizio": 12.26,
+     "fine": 12.76,
+     "conf": 1.0
+    },
+    {
+     "p": "in",
+     "inizio": 12.76,
+     "fine": 13.0,
+     "conf": 0.999
+    },
+    {
+     "p": "italia",
+     "inizio": 13.0,
+     "fine": 13.4,
+     "conf": 0.894
+    },
+    {
+     "p": "costa",
+     "inizio": 13.4,
+     "fine": 14.16,
+     "conf": 1.0
+    },
+    {
+     "p": "in",
+     "inizio": 14.16,
+     "fine": 14.22,
+     "conf": 1.0
+    },
+    {
+     "p": "media",
+     "inizio": 14.22,
+     "fine": 14.58,
+     "conf": 1.0
+    },
+    {
+     "p": "oltre",
+     "inizio": 14.58,
+     "fine": 15.26,
+     "conf": 1.0
+    },
+    {
+     "p": "36",
+     "inizio": 15.26,
+     "fine": 15.56,
+     "conf": 1.0
+    },
+    {
+     "p": ".000",
+     "inizio": 15.56,
+     "fine": 15.98,
+     "conf": 0.898
+    },
+    {
+     "p": "euro",
+     "inizio": 15.98,
+     "fine": 16.16,
+     "conf": 1.0
+    },
+    {
+     "p": "di",
+     "inizio": 16.16,
+     "fine": 16.34,
+     "conf": 1.0
+    },
+    {
+     "p": "listino",
+     "inizio": 16.34,
+     "fine": 16.84,
+     "conf": 1.0
+    },
+    {
+     "p": "ma",
+     "inizio": 16.84,
+     "fine": 17.28,
+     "conf": 0.965
+    },
+    {
+     "p": "il",
+     "inizio": 17.28,
+     "fine": 17.4,
+     "conf": 1.0
+    },
+    {
+     "p": "prezzo",
+     "inizio": 17.4,
+     "fine": 17.68,
+     "conf": 1.0
+    },
+    {
+     "p": "d",
+     "inizio": 17.68,
+     "fine": 17.76,
+     "conf": 0.992
+    },
+    {
+     "p": "'acquisto",
+     "inizio": 17.76,
+     "fine": 18.14,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "inizio": 18.14,
+   "fine": 25.56,
+   "testo": "è solo l'inizio facciamo un conto veloce 12.000 chilometri all'anno 6 litri ogni 100 chilometri",
+   "avg_logprob": -0.049,
+   "no_speech_prob": 0.005,
+   "parole": [
+    {
+     "p": "è",
+     "inizio": 18.14,
+     "fine": 18.42,
+     "conf": 0.999
+    },
+    {
+     "p": "solo",
+     "inizio": 18.42,
+     "fine": 18.68,
+     "conf": 1.0
+    },
+    {
+     "p": "l",
+     "inizio": 18.68,
+     "fine": 18.82,
+     "conf": 1.0
+    },
+    {
+     "p": "'inizio",
+     "inizio": 18.82,
+     "fine": 19.28,
+     "conf": 1.0
+    },
+    {
+     "p": "facciamo",
+     "inizio": 19.28,
+     "fine": 20.68,
+     "conf": 0.963
+    },
+    {
+     "p": "un",
+     "inizio": 20.68,
+     "fine": 20.82,
+     "conf": 1.0
+    },
+    {
+     "p": "conto",
+     "inizio": 20.82,
+     "fine": 21.12,
+     "conf": 1.0
+    },
+    {
+     "p": "veloce",
+     "inizio": 21.12,
+     "fine": 21.58,
+     "conf": 1.0
+    },
+    {
+     "p": "12",
+     "inizio": 21.58,
+     "fine": 22.0,
+     "conf": 1.0
+    },
+    {
+     "p": ".000",
+     "inizio": 22.0,
+     "fine": 22.44,
+     "conf": 0.996
+    },
+    {
+     "p": "chilometri",
+     "inizio": 22.44,
+     "fine": 22.94,
+     "conf": 0.932
+    },
+    {
+     "p": "all",
+     "inizio": 22.94,
+     "fine": 23.08,
+     "conf": 1.0
+    },
+    {
+     "p": "'anno",
+     "inizio": 23.08,
+     "fine": 23.42,
+     "conf": 1.0
+    },
+    {
+     "p": "6",
+     "inizio": 23.42,
+     "fine": 23.98,
+     "conf": 0.986
+    },
+    {
+     "p": "litri",
+     "inizio": 23.98,
+     "fine": 24.42,
+     "conf": 1.0
+    },
+    {
+     "p": "ogni",
+     "inizio": 24.42,
+     "fine": 24.54,
+     "conf": 1.0
+    },
+    {
+     "p": "100",
+     "inizio": 24.54,
+     "fine": 24.76,
+     "conf": 0.999
+    },
+    {
+     "p": "chilometri",
+     "inizio": 24.76,
+     "fine": 25.56,
+     "conf": 0.979
+    }
+   ]
+  },
+  {
+   "inizio": 25.56,
+   "fine": 32.88,
+   "testo": "benzina 2,11 euro al litro, dato MIMIT del 30 settembre. Sono circa 1.500 euro l'anno di",
+   "avg_logprob": -0.077,
+   "no_speech_prob": 0.003,
+   "parole": [
+    {
+     "p": "benzina",
+     "inizio": 25.56,
+     "fine": 26.12,
+     "conf": 0.958
+    },
+    {
+     "p": "2",
+     "inizio": 26.12,
+     "fine": 26.28,
+     "conf": 0.978
+    },
+    {
+     "p": ",11",
+     "inizio": 26.28,
+     "fine": 26.78,
+     "conf": 0.828
+    },
+    {
+     "p": "euro",
+     "inizio": 26.78,
+     "fine": 27.1,
+     "conf": 0.486
+    },
+    {
+     "p": "al",
+     "inizio": 27.1,
+     "fine": 27.14,
+     "conf": 0.99
+    },
+    {
+     "p": "litro,",
+     "inizio": 27.14,
+     "fine": 27.52,
+     "conf": 1.0
+    },
+    {
+     "p": "dato",
+     "inizio": 27.58,
+     "fine": 28.24,
+     "conf": 1.0
+    },
+    {
+     "p": "MIMIT",
+     "inizio": 28.24,
+     "fine": 28.76,
+     "conf": 0.782
+    },
+    {
+     "p": "del",
+     "inizio": 28.76,
+     "fine": 29.0,
+     "conf": 1.0
+    },
+    {
+     "p": "30",
+     "inizio": 29.0,
+     "fine": 29.28,
+     "conf": 1.0
+    },
+    {
+     "p": "settembre.",
+     "inizio": 29.28,
+     "fine": 30.0,
+     "conf": 1.0
+    },
+    {
+     "p": "Sono",
+     "inizio": 30.1,
+     "fine": 30.68,
+     "conf": 0.999
+    },
+    {
+     "p": "circa",
+     "inizio": 30.68,
+     "fine": 31.1,
+     "conf": 1.0
+    },
+    {
+     "p": "1",
+     "inizio": 31.1,
+     "fine": 31.38,
+     "conf": 0.654
+    },
+    {
+     "p": ".500",
+     "inizio": 31.38,
+     "fine": 31.96,
+     "conf": 0.997
+    },
+    {
+     "p": "euro",
+     "inizio": 31.96,
+     "fine": 32.36,
+     "conf": 0.999
+    },
+    {
+     "p": "l",
+     "inizio": 32.36,
+     "fine": 32.52,
+     "conf": 0.994
+    },
+    {
+     "p": "'anno",
+     "inizio": 32.52,
+     "fine": 32.7,
+     "conf": 1.0
+    },
+    {
+     "p": "di",
+     "inizio": 32.7,
+     "fine": 32.88,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "inizio": 32.88,
+   "fine": 41.32,
+   "testo": "carburante. Aggiungi l'assicurazione, secondo l'IVAS il premio medio RC auto è di 422 euro,",
+   "avg_logprob": -0.077,
+   "no_speech_prob": 0.003,
+   "parole": [
+    {
+     "p": "carburante.",
+     "inizio": 32.88,
+     "fine": 33.5,
+     "conf": 0.999
+    },
+    {
+     "p": "Aggiungi",
+     "inizio": 34.68,
+     "fine": 35.36,
+     "conf": 1.0
+    },
+    {
+     "p": "l",
+     "inizio": 35.36,
+     "fine": 35.4,
+     "conf": 0.998
+    },
+    {
+     "p": "'assicurazione,",
+     "inizio": 35.4,
+     "fine": 36.12,
+     "conf": 1.0
+    },
+    {
+     "p": "secondo",
+     "inizio": 36.3,
+     "fine": 36.8,
+     "conf": 1.0
+    },
+    {
+     "p": "l",
+     "inizio": 36.8,
+     "fine": 37.1,
+     "conf": 0.976
+    },
+    {
+     "p": "'IVAS",
+     "inizio": 37.1,
+     "fine": 37.38,
+     "conf": 0.81
+    },
+    {
+     "p": "il",
+     "inizio": 37.38,
+     "fine": 37.72,
+     "conf": 0.988
+    },
+    {
+     "p": "premio",
+     "inizio": 37.72,
+     "fine": 38.1,
+     "conf": 1.0
+    },
+    {
+     "p": "medio",
+     "inizio": 38.1,
+     "fine": 38.36,
+     "conf": 1.0
+    },
+    {
+     "p": "RC",
+     "inizio": 38.36,
+     "fine": 38.62,
+     "conf": 0.981
+    },
+    {
+     "p": "auto",
+     "inizio": 38.62,
+     "fine": 39.14,
+     "conf": 0.669
+    },
+    {
+     "p": "è",
+     "inizio": 39.14,
+     "fine": 39.62,
+     "conf": 0.999
+    },
+    {
+     "p": "di",
+     "inizio": 39.62,
+     "fine": 39.76,
+     "conf": 1.0
+    },
+    {
+     "p": "422",
+     "inizio": 39.76,
+     "fine": 40.7,
+     "conf": 1.0
+    },
+    {
+     "p": "euro,",
+     "inizio": 40.7,
+     "fine": 41.32,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "inizio": 41.48,
+   "fine": 49.48,
+   "testo": "in totale quasi 1.950 euro all'anno, circa 160 euro al mese. E questo senza contare bollo,",
+   "avg_logprob": -0.077,
+   "no_speech_prob": 0.003,
+   "parole": [
+    {
+     "p": "in",
+     "inizio": 41.48,
+     "fine": 41.98,
+     "conf": 1.0
+    },
+    {
+     "p": "totale",
+     "inizio": 41.98,
+     "fine": 42.56,
+     "conf": 1.0
+    },
+    {
+     "p": "quasi",
+     "inizio": 42.56,
+     "fine": 43.1,
+     "conf": 0.999
+    },
+    {
+     "p": "1",
+     "inizio": 43.1,
+     "fine": 43.36,
+     "conf": 0.699
+    },
+    {
+     "p": ".950",
+     "inizio": 43.36,
+     "fine": 44.1,
+     "conf": 1.0
+    },
+    {
+     "p": "euro",
+     "inizio": 44.1,
+     "fine": 44.6,
+     "conf": 1.0
+    },
+    {
+     "p": "all",
+     "inizio": 44.6,
+     "fine": 44.78,
+     "conf": 1.0
+    },
+    {
+     "p": "'anno,",
+     "inizio": 44.78,
+     "fine": 45.1,
+     "conf": 1.0
+    },
+    {
+     "p": "circa",
+     "inizio": 45.2,
+     "fine": 45.58,
+     "conf": 1.0
+    },
+    {
+     "p": "160",
+     "inizio": 45.58,
+     "fine": 46.16,
+     "conf": 1.0
+    },
+    {
+     "p": "euro",
+     "inizio": 46.16,
+     "fine": 46.64,
+     "conf": 1.0
+    },
+    {
+     "p": "al",
+     "inizio": 46.64,
+     "fine": 46.8,
+     "conf": 1.0
+    },
+    {
+     "p": "mese.",
+     "inizio": 46.8,
+     "fine": 47.12,
+     "conf": 1.0
+    },
+    {
+     "p": "E",
+     "inizio": 47.26,
+     "fine": 47.9,
+     "conf": 0.937
+    },
+    {
+     "p": "questo",
+     "inizio": 47.9,
+     "fine": 48.12,
+     "conf": 0.72
+    },
+    {
+     "p": "senza",
+     "inizio": 48.12,
+     "fine": 48.46,
+     "conf": 1.0
+    },
+    {
+     "p": "contare",
+     "inizio": 48.46,
+     "fine": 49.04,
+     "conf": 1.0
+    },
+    {
+     "p": "bollo,",
+     "inizio": 49.04,
+     "fine": 49.48,
+     "conf": 0.998
+    }
+   ]
+  },
+  {
+   "inizio": 49.56,
+   "fine": 55.3,
+   "testo": "tagliandi e soprattutto la svalutazione. Quindi prima di firmare non guardare solo la rata,",
+   "avg_logprob": -0.077,
+   "no_speech_prob": 0.003,
+   "parole": [
+    {
+     "p": "tagliandi",
+     "inizio": 49.56,
+     "fine": 50.12,
+     "conf": 0.995
+    },
+    {
+     "p": "e",
+     "inizio": 50.12,
+     "fine": 50.36,
+     "conf": 0.998
+    },
+    {
+     "p": "soprattutto",
+     "inizio": 50.36,
+     "fine": 50.66,
+     "conf": 0.997
+    },
+    {
+     "p": "la",
+     "inizio": 50.66,
+     "fine": 51.02,
+     "conf": 1.0
+    },
+    {
+     "p": "svalutazione.",
+     "inizio": 51.02,
+     "fine": 51.68,
+     "conf": 0.999
+    },
+    {
+     "p": "Quindi",
+     "inizio": 52.14,
+     "fine": 52.82,
+     "conf": 0.999
+    },
+    {
+     "p": "prima",
+     "inizio": 52.82,
+     "fine": 53.16,
+     "conf": 0.874
+    },
+    {
+     "p": "di",
+     "inizio": 53.16,
+     "fine": 53.36,
+     "conf": 1.0
+    },
+    {
+     "p": "firmare",
+     "inizio": 53.36,
+     "fine": 53.88,
+     "conf": 0.997
+    },
+    {
+     "p": "non",
+     "inizio": 53.88,
+     "fine": 54.12,
+     "conf": 0.917
+    },
+    {
+     "p": "guardare",
+     "inizio": 54.12,
+     "fine": 54.58,
+     "conf": 0.999
+    },
+    {
+     "p": "solo",
+     "inizio": 54.58,
+     "fine": 54.76,
+     "conf": 0.999
+    },
+    {
+     "p": "la",
+     "inizio": 54.76,
+     "fine": 54.96,
+     "conf": 0.995
+    },
+    {
+     "p": "rata,",
+     "inizio": 54.96,
+     "fine": 55.3,
+     "conf": 0.996
+    }
+   ]
+  },
+  {
+   "inizio": 55.3,
+   "fine": 60.98,
+   "testo": "fai conti su tutto. Nel prossimo video lo facciamo su 5 anni, nuova contrusata. Questo",
+   "avg_logprob": -0.095,
+   "no_speech_prob": 0.003,
+   "parole": [
+    {
+     "p": "fai",
+     "inizio": 55.3,
+     "fine": 55.6,
+     "conf": 0.76
+    },
+    {
+     "p": "conti",
+     "inizio": 55.6,
+     "fine": 55.98,
+     "conf": 0.977
+    },
+    {
+     "p": "su",
+     "inizio": 55.98,
+     "fine": 56.06,
+     "conf": 1.0
+    },
+    {
+     "p": "tutto.",
+     "inizio": 56.06,
+     "fine": 56.38,
+     "conf": 1.0
+    },
+    {
+     "p": "Nel",
+     "inizio": 56.56,
+     "fine": 57.06,
+     "conf": 0.996
+    },
+    {
+     "p": "prossimo",
+     "inizio": 57.06,
+     "fine": 57.48,
+     "conf": 1.0
+    },
+    {
+     "p": "video",
+     "inizio": 57.48,
+     "fine": 57.74,
+     "conf": 1.0
+    },
+    {
+     "p": "lo",
+     "inizio": 57.74,
+     "fine": 57.98,
+     "conf": 0.997
+    },
+    {
+     "p": "facciamo",
+     "inizio": 57.98,
+     "fine": 58.4,
+     "conf": 1.0
+    },
+    {
+     "p": "su",
+     "inizio": 58.4,
+     "fine": 58.54,
+     "conf": 0.999
+    },
+    {
+     "p": "5",
+     "inizio": 58.54,
+     "fine": 58.78,
+     "conf": 0.886
+    },
+    {
+     "p": "anni,",
+     "inizio": 58.78,
+     "fine": 59.18,
+     "conf": 0.999
+    },
+    {
+     "p": "nuova",
+     "inizio": 59.34,
+     "fine": 59.7,
+     "conf": 0.999
+    },
+    {
+     "p": "contrusata.",
+     "inizio": 59.7,
+     "fine": 60.34,
+     "conf": 0.656
+    },
+    {
+     "p": "Questo",
+     "inizio": 60.5,
+     "fine": 60.98,
+     "conf": 0.999
+    }
+   ]
+  },
+  {
+   "inizio": 60.98,
+   "fine": 64.5,
+   "testo": "video è informazione generale, non consulenza finanziaria.",
+   "avg_logprob": -0.095,
+   "no_speech_prob": 0.003,
+   "parole": [
+    {
+     "p": "video",
+     "inizio": 60.98,
+     "fine": 61.32,
+     "conf": 0.997
+    },
+    {
+     "p": "è",
+     "inizio": 61.32,
+     "fine": 61.54,
+     "conf": 0.999
+    },
+    {
+     "p": "informazione",
+     "inizio": 61.54,
+     "fine": 62.04,
+     "conf": 0.998
+    },
+    {
+     "p": "generale,",
+     "inizio": 62.04,
+     "fine": 62.74,
+     "conf": 1.0
+    },
+    {
+     "p": "non",
+     "inizio": 62.74,
+     "fine": 62.96,
+     "conf": 1.0
+    },
+    {
+     "p": "consulenza",
+     "inizio": 62.96,
+     "fine": 63.48,
+     "conf": 0.999
+    },
+    {
+     "p": "finanziaria.",
+     "inizio": 63.48,
+     "fine": 64.5,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "inizio": 67.0,
+   "fine": 70.84,
+   "testo": "Questo video è informazione generale, non consulenza finanziaria.",
+   "avg_logprob": -0.068,
+   "no_speech_prob": 0.007,
+   "nota": "trascritto a parte (clip da 67.0 s): saltato nella passata completa",
+   "parole": [
+    {
+     "p": "Questo",
+     "inizio": 67.0,
+     "fine": 67.82,
+     "conf": 0.942
+    },
+    {
+     "p": "video",
+     "inizio": 67.82,
+     "fine": 68.12,
+     "conf": 1.0
+    },
+    {
+     "p": "è",
+     "inizio": 68.12,
+     "fine": 68.34,
+     "conf": 1.0
+    },
+    {
+     "p": "informazione",
+     "inizio": 68.34,
+     "fine": 68.86,
+     "conf": 1.0
+    },
+    {
+     "p": "generale,",
+     "inizio": 68.86,
+     "fine": 69.54,
+     "conf": 1.0
+    },
+    {
+     "p": "non",
+     "inizio": 69.54,
+     "fine": 69.74,
+     "conf": 1.0
+    },
+    {
+     "p": "consulenza",
+     "inizio": 69.74,
+     "fine": 70.28,
+     "conf": 0.999
+    },
+    {
+     "p": "finanziaria.",
+     "inizio": 70.28,
+     "fine": 70.84,
+     "conf": 1.0
+    }
+   ]
+  }
+ ]
+}

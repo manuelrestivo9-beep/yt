@@ -1,0 +1,54 @@
+{
+ "sorgente": "audio/voce_pulita.wav",
+ "durata_sorgente": 72.448,
+ "parametri": {
+  "soglia_silenzio_db": -42.0,
+  "pausa_max": 0.7,
+  "pausa_target": 0.35,
+  "crossfade_ms": 20
+ },
+ "tagli": [
+  {
+   "inizio": 0.0,
+   "fine": 11.88,
+   "motivo": "pausa lunga",
+   "nota": "silenzio iniziale (profilo rumore)",
+   "testo": ""
+  },
+  {
+   "inizio": 19.59,
+   "fine": 20.32,
+   "motivo": "pausa lunga",
+   "testo": "",
+   "nota": "pausa di 1.08 s ridotta a 0.35 s"
+  },
+  {
+   "inizio": 34.52,
+   "fine": 34.89,
+   "motivo": "pausa lunga",
+   "testo": "",
+   "nota": "pausa di 0.72 s ridotta a 0.35 s"
+  },
+  {
+   "inizio": 52.15,
+   "fine": 52.58,
+   "motivo": "pausa lunga",
+   "testo": "",
+   "nota": "pausa di 0.78 s ridotta a 0.35 s"
+  },
+  {
+   "inizio": 60.62,
+   "fine": 67.46,
+   "motivo": "ripetizione",
+   "testo": "Questo video è informazione generale, non consulenza finanziaria.",
+   "nota": "tenuta l'ultima ripetizione da 67.71 s"
+  },
+  {
+   "inizio": 72.05,
+   "fine": 72.448,
+   "motivo": "pausa lunga",
+   "nota": "silenzio finale",
+   "testo": ""
+  }
+ ]
+}
