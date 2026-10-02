@@ -1,0 +1,1 @@
+PRE=highpass=f=80:poles=2,asendcmd=c='0.5 afftdn@nr sn start; 11.5 afftdn@nr sn stop',afftdn@nr=nr=12:nf=-50:tn=0
